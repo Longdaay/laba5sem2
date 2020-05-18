@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Longday\source\repos\AVL\Source.cpp(270,12): warning C4101:  temp_value: неиспользованная локальная переменная
+C:\Users\Longday\source\repos\AVL\Source.cpp(280,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\AVL\Source.cpp(309,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\AVL\Source.cpp(1004,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AVL.vcxproj -> C:\Users\Longday\source\repos\AVL\Debug\AVL.exe
